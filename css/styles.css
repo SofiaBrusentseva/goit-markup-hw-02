@@ -5,3 +5,57 @@ body{
     font-size: 16px;
     line-height: 1.5;
 }
+.menu-nav{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+}
+.logo-web{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #4D5AE5;
+}
+.logo-studio{
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0.03em;
+    color: #2E2F42;
+}
+
+.main-page{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+}
+.main-page .link:hover,
+.main-page .link:active {
+    color: #404BBF;
+}
+.nav-contacts {
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.mail-tel{
+font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.02em;
+color: #434455;
+}
+.mail-tel .link:hover{
+    color: #404BBF;
+}
