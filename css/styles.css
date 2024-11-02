@@ -99,10 +99,9 @@ background-color: #4D5AE5;
 }
 
 .solution-subtitle {
-font-family: Roboto;
 font-size: 20px;
 font-weight: 500;
-line-height: 24px;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: left;
 color: #2E2F42;
@@ -125,13 +124,13 @@ color: #434455;
 .team-item {
     background-color: #FFFFFF;
 }
-.team-title{
+.team-title {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    text-align: left;
+    text-align: center;
     color: #2E2F42;
 }
 .team-subtitle {
