@@ -44,6 +44,9 @@ color: #2E2F42;
   color: #404BBF;
 }
 
+.address {
+ font-style: normal;
+}
 .address-link {
 font-size: 16px;
 font-weight: 400;
@@ -87,6 +90,14 @@ background-color: #4D5AE5;
    background-color: #404BBF;
 }
 
+.solution-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .solution-subtitle {
 font-family: Roboto;
 font-size: 20px;
@@ -115,11 +126,12 @@ color: #434455;
     background-color: #FFFFFF;
 }
 .team-title{
-    font-size: 20px;
+    font-size: 36px;
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
-    text-align: center;
+    text-transform: capitalize;
+    text-align: left;
     color: #2E2F42;
 }
 .team-subtitle {
@@ -173,6 +185,9 @@ color: #434455;
 }
 
 .logo-studio-white {
+   font-family: "Raleway", sans-serif;
+   line-height: 1.17;
+   text-transform: uppercase;
    color: #F4F4FD;
 }
 
@@ -183,4 +198,5 @@ line-height: 24px;
 letter-spacing: 0.02em;
 text-align: left;
 color: #E7E9FC;
+color: #F4F4FD;
 }
